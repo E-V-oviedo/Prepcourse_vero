@@ -1,8 +1,8 @@
 # Prepcourse_vero
 Este es un repositorio de prepcourse de Henry
-<h1 align="center">Hola 👋, Soy Verito <a href="https://github.com/E-V-oviedo" target="blank">
+<h1 align="center">Hola 👋, Soy <a href="https://github.com/E-V-oviedo" target="blank">
 Verito</a></h1>
-<h3 align="center">A passionate developer from Argentina &#127470;&#127475</h3>
+<h3 align="center"> Una Apassionada Desarrolladora web full stack from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,9 +12,9 @@ Verito</a></h1>
 
 - 🔭 Estoy Trabajando  <a href="mi vida"></a>
 
-- 🌱 Etapa de crecimiento o metas: Aumentar y Desarrollar mis habilidades
+- 🌱 Mis metas: Aumentar y Desarrollar mis habilidades
 
-- 🤝 I’m available for freelancing.
+- 🤝 Trabajo freelancer.
 
 - 📫 contactame en **oviedoestela44@gmail.com**
 <br/>
